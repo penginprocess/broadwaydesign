@@ -1,0 +1,19 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+.HeaderMenu {
+  background-image: url('file:///c:/BroadwayDesignProject/resources/images/the-flatiron-building.png');
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 18px;
+  line-height: 0%;
+}
